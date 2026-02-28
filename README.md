@@ -129,6 +129,6 @@ Camera frames are streamed as binary JPEG data over WebSocket.
 ![Model Images](pictures/image1.jpeg)
 ![Model Images](pictures/image2.jpeg)
 ![Model Images](pictures/image3.jpeg)
-![Model Images](pictures/image4.png)
+![Model Images](pictures/image4.jpeg)
 
 
