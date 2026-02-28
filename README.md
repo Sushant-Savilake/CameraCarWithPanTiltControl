@@ -123,4 +123,4 @@ Camera frames are streamed as binary JPEG data over WebSocket.
 ---
 
 ### **Working app test image**
-![App screenshot](screenshots/docker_repo.png)
+![App screenshot](screenshot.jpeg)
